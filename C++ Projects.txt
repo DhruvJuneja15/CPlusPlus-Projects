@@ -1,4 +1,0 @@
-1. Credit Card validator
-2. Student Report Management System <=>Vaccine Management System
-3. Helicopter game
-4. Optional => Sudoku game
